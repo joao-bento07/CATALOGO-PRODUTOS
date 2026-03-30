@@ -49,3 +49,16 @@ button {
   background: white;
   margin: 20px;
 }
+.form {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.form input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+}
